@@ -929,7 +929,9 @@ margin-bottom: 16px;
         background-color: var(--accent);
         fill: #FFFFFF;
       }
-    
+    .menu-mobile-nav-item:last-child{
+        color: #404BBF;
+    }
       .menu-mobile-nav-item:not(:last-child) {
         margin-bottom: 40px;
       }
