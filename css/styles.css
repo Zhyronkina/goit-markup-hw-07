@@ -1204,7 +1204,9 @@ screen and (min-resolution: 2dppx) {
 .contacts-link{
     color:#434455 ;
 }
-
+.footer-social-text{
+    margin-left: 0;
+}
 .filter-list{
     display: flex;
     justify-content: center;
@@ -1283,9 +1285,6 @@ padding: 0 108px;}
 }
 .footer-social{
 width: 208px;
-}
-.footer-social-text{
-    margin-left: 0;
 }
 .email-input-footer {
 	width: 264px;
